@@ -1,0 +1,1 @@
+pokretati iz moda release jer je debug zakljucan !!
